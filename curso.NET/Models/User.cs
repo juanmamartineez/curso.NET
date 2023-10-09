@@ -8,6 +8,6 @@
 
         public int? Dni { get; set; }
 
-        public int? Edad { get; set; }
+        public int? Age { get; set; }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\bin\Debug\Wcf-Service.dll.config
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\bin\Debug\Wcf-Service.dll
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\bin\Debug\Wcf-Service.pdb
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\obj\Debug\Wcf-Service.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\obj\Debug\Wcf-Service.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\obj\Debug\Wcf-Service.dll
+C:\Users\marti\OneDrive\Desktop\.Net Avanzado\curso.NET\Wcf-Service\Wcf-Service\obj\Debug\Wcf-Service.pdb

@@ -1,0 +1,12 @@
+﻿@model List<User>;
+
+<h1>Usuarios</h1>
+
+@foreach (var item in Model)
+{
+    <br/>
+    <h3>Nombre: @item.Name</h3>
+    <h3>Apellido: @item.LastName</h3>
+    <h3>DNI: @item.Dni</h3>
+    <h3>Edad: @item.Age</h3>
+}

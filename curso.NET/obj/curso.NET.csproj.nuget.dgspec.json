@@ -43,6 +43,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.2, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.2, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.2, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.2, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
